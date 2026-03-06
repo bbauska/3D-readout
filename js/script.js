@@ -1,22 +1,22 @@
 // Place text "Silus Gaming World" into cons silusGW.
 const silusGW = `<p>Silus Gaming World says, 
 Silus Gaming World <span>Silus Gaming World</span>,
-Silus Gaming World <span>Has over 30,000 subs</span>,
+Silus Gaming World <span>Has over 13,000 subs</span>,
 Thank you, thank you, thank you <span>subscribers</span>
 Silus Gaming World <span>Silus Gaming World</span>,
-Silus Gaming World <span>Has over 30,000 subs</span>,
+Silus Gaming World <span>Has over 13,000 subs</span>,
 Thank you, thank you, thank you <span>subscribers</span>
 Silus Gaming World <span>Silus Gaming World</span>,
-Silus Gaming World <span>Has over 30,000 subs</span>,
+Silus Gaming World <span>Has over 13,000 subs</span>,
 Thank you, thank you, thank you <span>subscribers</span>
 Silus Gaming World <span>Silus Gaming World</span>,
-Silus Gaming World <span>Has over 30,000 subs</span>,
+Silus Gaming World <span>Has over 13,000 subs</span>,
 Thank you, thank you, thank you <span>subscribers</span>
 Silus Gaming World <span>Silus Gaming World</span>,
-Silus Gaming World <span>Has over 30,000 subs</span>,
+Silus Gaming World <span>Has over 13,000 subs</span>,
 Thank you, thank you, thank you <span>subscribers</span>
 Silus Gaming World <span>Silus Gaming World</span>,
-Silus Gaming World <span>Has over 30,000 subs</span>,
+Silus Gaming World <span>Has over 13,000 subs</span>,
 Thank you, thank you, thank you <span>subscribers</span>
      -Brian Bauska (bbauska)</p>`;
 
